@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rotate Screen</string>
+    <string name="app_about">This App forces the Screen Orientation Change\nGreat for devices with faulty orientation sensors</string>
+    <string name="btn_potrait_txt">Change Orientation\nPotrait</string>
+    <string name="btn_landscape_txt">Change Orientation\nLandscape</string>
+</resources>
