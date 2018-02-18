@@ -3,4 +3,5 @@
     <string name="app_about">This App forces the Screen Orientation Change\nGreat for devices with faulty orientation sensors</string>
     <string name="btn_potrait_txt">Change Orientation\nPotrait</string>
     <string name="btn_landscape_txt">Change Orientation\nLandscape</string>
+    <string name="notif_enable">Enable Notification Panel</string>
 </resources>

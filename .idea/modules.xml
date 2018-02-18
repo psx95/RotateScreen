@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RotateScreen.iml" filepath="$PROJECT_DIR$/RotateScreen.iml" />
+      <module fileurl="file://G:\Android Projects\Rotate Screen Fix\RotateScreen\RotateScreen.iml" filepath="G:\Android Projects\Rotate Screen Fix\RotateScreen\RotateScreen.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://G:\Android Projects\Rotate Screen Fix\RotateScreen\app\app.iml" filepath="G:\Android Projects\Rotate Screen Fix\RotateScreen\app\app.iml" />
     </modules>
   </component>
 </project>
